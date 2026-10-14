@@ -1,1 +1,1 @@
-# h23
+print("Hello, World!")
